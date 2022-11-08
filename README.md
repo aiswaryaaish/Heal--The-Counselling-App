@@ -42,6 +42,7 @@ of clinical practice in mental health. Machine learning will be used to predict 
 risk at an individual level (for dementia, anxiety, depression, and others) and to determine the
 interactive factors that influence mental health across people’s lifespans (e.g. genetics, cognition,
 demographics).
+
 #Working
 
 Our app is to help people connect with the best therapists beyond any physical restrictions.A
@@ -72,9 +73,13 @@ key indicators for mental health disorders are known, a trial and error treatmen
 acceptable. Machine learning algorithms provide a ripe opportunity for psychiatrists and mental
 health professionals to identify sub-types of different disorders and develop more catered
 treatment plans and medication dosages.
+
 #Hardware
+
 RAM- storage space is required for the app
-Software
+
+#Software
+
 -Flutter -
 Cross-platform applications are a long-standing dream of any business, because separate native
 iOS and Android apps are more expensive to develop and maintain. Flutter offers a quick way to
@@ -86,14 +91,19 @@ framework, you will also have fewer problems when adapting your app to each of t
 Most frameworks can cope, but that’s only if you consider them in the context of simple
 applications. The real problems begin when an application becomes “overgrown” with functions
 and inevitably gets complicated (it is about most products during the development stage).
--FigmaFigma is a web-based graphics editing and user interface design app. You can use it to do all
+
+-Figma
+Figma is a web-based graphics editing and user interface design app. You can use it to do all
 kinds of graphic design work from wireframing websites, designing mobile app interfaces,
 prototyping designs, crafting social media posts, and everything in between. Figma is different
 from other graphics editing tools.We used figma for making the prototype for the app
+
 - Flutlab
 FlutLab is a modern Flutter online IDE and the best place to create, debug, and build
 cross-platform projects.We used flutlab for generating the code
-Design
+
+#Design
+
 Simple and user-friendly design is used for building this app.We have a minimalistic design
 approach in order to create a simple and highly usable mobile application.
 When an application tells you how to navigate from one screen to another, it can be really
@@ -103,7 +113,9 @@ use this type of native component in our app.
 Implementation
 Deep learning technologies are incorporated in our app so that , by continuously monitoring and
 recording the sessions with the users permission, accuracy can be increased from 90-95%.
-Cost
+
+#Cost
+
 funding is required for deploying the app where we need to use the cloud storage facilities and
 the cost depends on the storage requirements.
 Social impact
@@ -133,7 +145,9 @@ substance abuse, and miss out on important social experiences. Even though this 
 highly treatable, only 36.9% of those suffering receive treatment, most likely due to a
 perceived societal stigma, with men far less likely to seek treatment. Our app help the
 people who didnt receive any treatment .
-Further Advancement
+
+#Further Advancement
+
 We would like to expand the reach of this app to remote areas and other cosmopolitan cities
 through advertisements and other social awareness programmes.We have to make it more user
 friendly and interesting.We have to provide an in-app search engine so as to make the search
@@ -141,6 +155,7 @@ easy and quick. The easy navigation design, the advanced search and information 
 will all improve the usability of your app to a great extent.
 Moreover, we can add animation, transitions or automation, since they 'look good' in native
 mobile apps.
+
 #References
 
 1. Google
