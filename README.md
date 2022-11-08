@@ -1,6 +1,7 @@
 # Heal--The-Counselling-App
 
 #Problem statement
+
 Epidemiological Data analytics on health: A software or other tool to give epidemiological
 health indicators-identify the biggest health issue (eg high Covid positivity rate could be
 combined with high diabetics, high cancer or other comorbidity), and thereby the vulnerable
@@ -42,6 +43,7 @@ risk at an individual level (for dementia, anxiety, depression, and others) and 
 interactive factors that influence mental health across people’s lifespans (e.g. genetics, cognition,
 demographics).
 #Working
+
 Our app is to help people connect with the best therapists beyond any physical restrictions.A
 person can seek help from the therapist of their choice through a video meeting. They can also
 choose any language according to their preference. In this modern era where AI and ML have
@@ -140,6 +142,7 @@ will all improve the usability of your app to a great extent.
 Moreover, we can add animation, transitions or automation, since they 'look good' in native
 mobile apps.
 #References
+
 1. Google
 2. Newspaper
 3. Magazines
